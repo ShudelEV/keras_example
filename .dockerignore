@@ -1,0 +1,11 @@
+__pycache__
+*.py[cod]
+*.pot
+*.egg
+*.egg-info/
+.git
+.githooks
+.gitignore
+.venv/
+.idea/
+docker-compose.yml
